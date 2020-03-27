@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on degen sleep squad</title>
+    <link>https://degensleepsquad.team/post/</link>
+    <description>Recent content in Posts on degen sleep squad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2020 19:42:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://degensleepsquad.team/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about us</title>
+      <link>https://degensleepsquad.team/post/about/</link>
+      <pubDate>Fri, 27 Mar 2020 19:42:26 +0000</pubDate>
+      
+      <guid>https://degensleepsquad.team/post/about/</guid>
+      <description>what do you really need to know, we&amp;rsquo;re degens&amp;hellip; degen members  osint degen &amp;mdash; Dan (SherlockSec)  TryHackMe
+anime degen &amp;mdash; Sp00ky  TryHackMe
+degen zookeeper &amp;mdash; optional  TryHackMe
+degen daddy &amp;mdash; DarkStar7471  TryHackMe
+degen dev &amp;mdash; Horshark  TryHackMe</description>
+    </item>
+    
+  </channel>
+</rss>
